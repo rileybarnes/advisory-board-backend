@@ -1,0 +1,13 @@
+{
+  "name": "advisory-board-backend",
+  "version": "1.0.0",
+  "description": "Backend for The Create It Advisory Board",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5"
+  }
+}
